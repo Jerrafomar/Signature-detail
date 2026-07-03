@@ -10,25 +10,28 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.3310136003004325" />
-      <entry key="MS500" value="2.4414736780172617" />
-      <entry key="S2" value="5.869434192355174" />
-      <entry key="S5" value="8.627860211854241" />
-      <entry key="S10" value="10.093805854597605" />
-      <entry key="S30" value="11.306839074952576" />
-      <entry key="S60" value="11.64555683860458" />
-      <entry key="M2" value="11.822032469753127" />
-      <entry key="M5" value="12.662829919809774" />
-      <entry key="M10" value="18.134182904029064" />
-      <entry key="M15" value="24.52717486942592" />
-      <entry key="M30" value="37.52985171299702" />
-      <entry key="H1" value="48.43623151726548" />
-      <entry key="H2" value="55.52797842684263" />
-      <entry key="H4" value="59.57576307496126" />
-      <entry key="D1" value="63.235035846384484" />
-      <entry key="W1" value="63.890023964860724" />
+      <entry key="MS100" value="1.0517759689387136" />
+      <entry key="MS500" value="2.7997691607144626" />
+      <entry key="S2" value="8.354340634738193" />
+      <entry key="S5" value="14.919302272667636" />
+      <entry key="S10" value="21.246665739981154" />
+      <entry key="S30" value="29.85618656876059" />
+      <entry key="S60" value="33.29017323941193" />
+      <entry key="M2" value="36.21230820101311" />
+      <entry key="M5" value="41.36667818897277" />
+      <entry key="M10" value="48.28131134041427" />
+      <entry key="M15" value="54.99956597083975" />
+      <entry key="M30" value="70.14994739360333" />
+      <entry key="H1" value="84.66704848076904" />
+      <entry key="H2" value="94.93605651558501" />
+      <entry key="H4" value="101.07286574737645" />
+      <entry key="D1" value="106.78620643173333" />
+      <entry key="W1" value="107.82508844381476" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -50,23 +53,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.246251292461648" />
-      <entry key="MS500" value="2.4096520893453026" />
-      <entry key="S2" value="5.8484771390210755" />
-      <entry key="S5" value="8.613732271258476" />
-      <entry key="S10" value="10.085024476481063" />
-      <entry key="S30" value="11.303413062862358" />
-      <entry key="S60" value="11.643772404219275" />
-      <entry key="M2" value="11.821121289331705" />
-      <entry key="M5" value="12.662384684794407" />
-      <entry key="M10" value="18.13368326712366" />
-      <entry key="M15" value="24.526627548471183" />
-      <entry key="M30" value="37.52936146918527" />
-      <entry key="H1" value="48.435895956179095" />
-      <entry key="H2" value="55.52778130979151" />
-      <entry key="H4" value="59.575656153936656" />
-      <entry key="D1" value="63.23501676714989" />
-      <entry key="W1" value="63.89002120707311" />
+      <entry key="MS100" value="1.001157060211019" />
+      <entry key="MS500" value="2.76813355053055" />
+      <entry key="S2" value="8.328638382455445" />
+      <entry key="S5" value="14.899904353754334" />
+      <entry key="S10" value="21.23213987036031" />
+      <entry key="S30" value="29.84892662444974" />
+      <entry key="S60" value="33.285576403409635" />
+      <entry key="M2" value="36.20862656387987" />
+      <entry key="M5" value="41.3639805258806" />
+      <entry key="M10" value="48.279433683262525" />
+      <entry key="M15" value="54.9980503964683" />
+      <entry key="M30" value="70.14891993614232" />
+      <entry key="H1" value="84.66641064993058" />
+      <entry key="H2" value="94.93569428645344" />
+      <entry key="H4" value="101.07267175934292" />
+      <entry key="D1" value="106.78617210865261" />
+      <entry key="W1" value="107.82508348885307" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -78,25 +81,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "js.debugger.nextJs.config.created.client": "true",
-    "js.debugger.nextJs.config.created.server": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/snap/intellij-idea-ultimate/792/plugins/javascript-plugin/jsLanguageServicesImpl/external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;js.debugger.nextJs.config.created.client&quot;: &quot;true&quot;,
+    &quot;js.debugger.nextJs.config.created.server&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/snap/intellij-idea-ultimate/792/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="npm.Next.js: server-side">
     <configuration name="Next.js: debug client-side" type="JavascriptDebugType" uri="http://localhost:3000/">
       <method v="2" />
