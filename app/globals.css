@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply border-white/10;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-obsidian text-ivory font-body antialiased;
+    background-color: #0a0a0a;
+  }
+
+  ::selection {
+    background-color: #c8a96a;
+    color: #0a0a0a;
+  }
+
+  /* Slim luxury scrollbar */
+  ::-webkit-scrollbar {
+    width: 10px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #0a0a0a;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #2a2a2a;
+    border: 2px solid #0a0a0a;
+    border-radius: 999px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #c8a96a;
+  }
+
+  /* Visible keyboard focus, luxury gold ring */
+  :focus-visible {
+    outline: 2px solid #c8a96a;
+    outline-offset: 3px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+@layer components {
+  .eyebrow {
+    @apply text-[11px] md:text-xs uppercase tracking-widest2 text-gold font-body font-medium;
+  }
+
+  .section-heading {
+    @apply font-display font-light text-4xl sm:text-5xl md:text-6xl leading-[1.05] text-ivory;
+  }
+
+  .body-copy {
+    @apply text-silver font-body text-base md:text-lg leading-relaxed font-light;
+  }
+
+  .divider-gold {
+    @apply relative h-px w-16 bg-gradient-to-r from-gold to-transparent;
+  }
+
+  .btn-gold {
+    @apply inline-flex items-center justify-center gap-2 bg-gold-gradient text-obsidian font-body text-xs uppercase tracking-widest2 font-semibold px-8 py-4 transition-all duration-500 ease-luxury hover:shadow-gold hover:brightness-110 active:brightness-95;
+  }
+
+  .btn-outline {
+    @apply inline-flex items-center justify-center gap-2 border border-silver/40 text-ivory font-body text-xs uppercase tracking-widest2 font-semibold px-8 py-4 transition-all duration-500 ease-luxury hover:border-gold hover:text-gold;
+  }
+
+  .card-luxury {
+    @apply relative bg-charcoal/60 border border-white/10 backdrop-blur-sm transition-all duration-500 ease-luxury hover:border-gold/50 hover:bg-charcoal;
+  }
+}
